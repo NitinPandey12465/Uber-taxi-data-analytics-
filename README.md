@@ -11,7 +11,6 @@ The goal is to simulate a **real-world data analytics workflow** including:
 * Data Cleaning
 * Data Transformation
 * Feature Engineering
-* SQL-based Analysis
 
 ---
 
