@@ -13,7 +13,7 @@ The goal is to simulate a **real-world data analytics workflow** including:
 * Feature Engineering
 * SQL-based Analysis
 
----
+--------
 
 ## 📊 Dataset Description
 
