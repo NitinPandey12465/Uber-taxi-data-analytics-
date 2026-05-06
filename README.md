@@ -33,7 +33,7 @@ The dataset contains **150,000 ride records** with the following key columns:
 * Ratings (Driver & Customer)
 * Payment Method
 
----
+--------
 
 ## 🧹 Data Cleaning (Python - Pandas)
 
